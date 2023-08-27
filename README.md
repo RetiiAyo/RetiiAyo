@@ -10,6 +10,8 @@ I'm a developer from Poland which is working on a few things:
 
 ![https://lanyard-profile-readme.vercel.app/api/846077657653051452](https://discord.c99.nl/widget/theme-1/846077657653051452.png)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RetiiAyo&layout=compact&theme=tokyonight)
+
 <!-- # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=RetiiAyo&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -19,8 +21,9 @@ I'm a developer from Poland which is working on a few things:
 
 [![](https://visitcount.itsvg.in/api?id=Saizuo&icon=6&color=6)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 <!--
 **RetiiAyo/RetiiAyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
