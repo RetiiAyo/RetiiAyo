@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a developer from Poland which is working on a few things:
-  - A Discord bot
-  - Myself
+![](https://github.com/RetiiAyo/RetiiAyo/blob/850d5c126679f1c58a5fd975f07c3f0fdb056769/Fortnite-3-5-1.jpg)
 
 <!-- # 💻 Tech Stack:
 
